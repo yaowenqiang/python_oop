@@ -68,4 +68,10 @@ class Circle:
 
 
 
+#  Private variables
+
+> https://docs.python.org/3/tutorial/classes.html
+
+> It is not possible to make things private in Python!
+> you can indicate things 'should' be private
 
